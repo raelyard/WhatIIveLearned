@@ -15,3 +15,4 @@ Resources:
 - [Pinal Dave on Developer On Fire)](http://developeronfire.com/podcast/episode-119-pinal-dave-serving-a-benevolent-master)
 - [Carl Franklin on Developer On Fire)](http://developeronfire.com/podcast/episode-013-carl-franklin-just-be-awesome)
 - [Gary Wisniewski on Developer On Fire)](http://developeronfire.com/podcast/episode-068-gary-wisniewski-fundamentals-matter)
+
