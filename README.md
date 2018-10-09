@@ -13,5 +13,5 @@ Resources:
 - [Test Your Understanding - Blog Post by Dave on Simple Programmer]https://simpleprogrammer.com/2015/09/02/test-your-understanding/()
 - [James Sturtevant on Developer On Fire)](http://developeronfire.com/podcast/episode-199-james-sturtevant-masterminding-engagment)
 - [Pinal Dave on Developer On Fire)](http://developeronfire.com/podcast/episode-119-pinal-dave-serving-a-benevolent-master)
-- [Carl Franklin on Developer On Fire)](http://developeronfire.com/podcast/episode-013-carl-franklin-just-be-awesome)
-- [Gary Wisniewski on Developer On Fire)](http://developeronfire.com/podcast/episode-068-gary-wisniewski-fundamentals-matter)
+- [Jerry Weinberg on Developer On Fire)](http://developeronfire.com/JerryWeinberg)
+- [David Hussman on Developer On Fire)](http://developeronfire.com/podcast/episode-315-david-hussman-from-success-to-fulfillment)
